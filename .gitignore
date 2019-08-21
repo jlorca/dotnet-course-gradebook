@@ -1,0 +1,8 @@
+
+*.json
+*.dll
+*.pdb
+*.cache
+gradebook/src/GradeBook/obj/GradeBook.csproj.nuget.g.targets
+gradebook/src/GradeBook/obj/GradeBook.csproj.nuget.g.props
+gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.FileListAbsolute.txt
